@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Carla Faes</h1>
 <h3 align="center">I'm a Full Stack Web Development student.</h3>
 
-- 🔭 I’m currently working on [P.I Rick and Morty](https://github.com/carlafaes/REPASO-PI)
+- 🔭 I’m currently working on [InmobilApp](https://github.com/carlafaes/inmobilapp-client)
 
 - 🌱 I’m currently learning **React,Sequelize,Node.js,Express.js,PostgreSQL**
 
