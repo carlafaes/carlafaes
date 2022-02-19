@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [InmobilApp](https://github.com/carlafaes/inmobilapp-client)
 
-- 🌱 I’m currently learning **React,Sequelize,Node.js,Express.js,PostgreSQL,Redux,MAterial-UI**
+- 🌱 I’m currently learning **React,Sequelize,Node.js,Express.js,PostgreSQL,Redux,Material-UI**
 
 - 📫 How to reach me **carlafaes18@hotmail.com**
 
