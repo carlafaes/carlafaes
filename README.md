@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Carla Faes</h1>
-<h3 align="center">I'm a Full Stack Web Development student.</h3>
+<h3 align="center">I'm a Full Stack Web Developer student.</h3>
 
 - 🔭 I’m currently working on [InmobilApp](https://github.com/carlafaes/inmobilapp-client)
 
