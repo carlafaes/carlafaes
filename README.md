@@ -3,7 +3,7 @@
 <h3 align="center">I'm a Full Stack Web Developer</h3>
 
 ##My Git Stats
-<img src="https://github-readme-stats.vercel.app/api?username=carlafaes&&show_icons=true&count_private=true&theme=radical&titlecolor=8E2DE2&text_color=fff&icon_color=8E2DE2"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=carlafaes&theme=radical"/>|
+<img src="https://github-readme-stats.vercel.app/api?username=carlafaes&&show_icons=true&count_private=true&theme=radical&titlecolor=8E2DE2&text_color=fff&icon_color=8E2DE2&include_all_commits=true"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=carlafaes&theme=radical"/>|
 |---|---|
 
 ##Top Programming Languages
