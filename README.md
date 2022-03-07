@@ -8,7 +8,7 @@
 
 ##Top Programming Languages
 <br/>
-![Tpo Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlafaes&theme=radical&title_color=70076D&text_xolor=fff)
+![Tpo Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlafaes&layout=compact&theme=radical&title_color=70076D&text_xolor=fff)
 
 
 
