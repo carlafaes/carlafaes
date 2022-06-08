@@ -1,7 +1,7 @@
 
 
 <h3 align="center">Hola!👋 </br>
- Soy Carla, soy Desarrolladora Web Full Stack, con gran interes en el Front End y los estilos.</h3><img src="https://drive.google.com/file/d/1B9hrOTP-LGP47OJ1yxccp1-mAX3PI6wo/view?usp=sharing" width="600" height="400" align="center"/>
+ Soy Carla, soy Desarrolladora Web Full Stack, con gran interes en el Front End y los estilos.</h3><img src="https://imgur.com/aONuVz2" width="600" height="400" align="center"/>
 
 
 
