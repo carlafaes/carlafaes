@@ -1,8 +1,9 @@
 
 
-<h3 align="center">Hi, I'm Carla, I'm a Full Stack Web Developer, with great interest in Front End and styles.</h3>
+<h3 align="center">Hola!👋 </br>
+ Soy Carla, soy Desarrolladora Web Full Stack, con gran interes en el Front End y los estilos.</h3><img src="https://drive.google.com/file/d/1B9hrOTP-LGP47OJ1yxccp1-mAX3PI6wo/view?usp=sharing" width="600" height="400" align="center"/>
 
-<img src="https://www.globaldevelopersb.com/assets/img/gif/programacion.gif" />
+
 
 ##My Git Stats
 <img src="https://github-readme-stats.vercel.app/api?username=carlafaes&&show_icons=true&count_private=true&theme=radical&titlecolor=8E2DE2&text_color=fff&icon_color=8E2DE2&include_all_commits=true"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=carlafaes&theme=radical"/>|
