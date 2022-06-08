@@ -2,6 +2,8 @@
 <h1 align="center">Hi 👋, I'm Carla Faes</h1>
 <h3 align="center">I'm a Full Stack Web Developer</h3>
 
+<img src="https://www.globaldevelopersb.com/assets/img/gif/programacion.gif" />
+
 ##My Git Stats
 <img src="https://github-readme-stats.vercel.app/api?username=carlafaes&&show_icons=true&count_private=true&theme=radical&titlecolor=8E2DE2&text_color=fff&icon_color=8E2DE2&include_all_commits=true"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=carlafaes&theme=radical"/>|
 |---|---|
