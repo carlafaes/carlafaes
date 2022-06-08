@@ -1,6 +1,6 @@
 
-<h1 align="center">Hi 👋, I'm Carla Faes</h1>
-<h3 align="center">I'm a Full Stack Web Developer</h3>
+
+<h3 align="center">Hi, I'm Carla, I'm a Full Stack Web Developer, with great interest in Front End and styles.</h3>
 
 <img src="https://www.globaldevelopersb.com/assets/img/gif/programacion.gif" />
 
