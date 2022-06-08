@@ -1,8 +1,8 @@
 
-
 <a href="https://imgur.com/TMUSpyq"><img src="https://i.imgur.com/TMUSpyq.gif" title="source: imgur.com" /></a>
-
+<a href="https://imgur.com/8pxPIXc"><img src="https://i.imgur.com/8pxPIXc.gif" title="source: imgur.com" /></a>
 ##My Git Stats
+<a href="https://imgur.com/067rZBu"><img src="https://i.imgur.com/067rZBu.gif" title="source: imgur.com" /></a>
 <img src="https://github-readme-stats.vercel.app/api?username=carlafaes&&show_icons=true&count_private=true&theme=radical&titlecolor=8E2DE2&text_color=fff&icon_color=8E2DE2&include_all_commits=true"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=carlafaes&theme=radical"/>|
 |---|---|
 
