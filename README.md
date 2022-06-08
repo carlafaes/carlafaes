@@ -1,9 +1,6 @@
 
 
-<h3 align="center">Hola!👋 </br>
- Soy Carla, soy Desarrolladora Web Full Stack, con gran interes en el Front End y los estilos.</h3><img src="https://imgur.com/aONuVz2" width="600" height="400" align="center"/>
-
-
+<a href="https://imgur.com/TMUSpyq"><img src="https://i.imgur.com/TMUSpyq.gif" title="source: imgur.com" /></a>
 
 ##My Git Stats
 <img src="https://github-readme-stats.vercel.app/api?username=carlafaes&&show_icons=true&count_private=true&theme=radical&titlecolor=8E2DE2&text_color=fff&icon_color=8E2DE2&include_all_commits=true"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=carlafaes&theme=radical"/>|
