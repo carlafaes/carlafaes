@@ -5,11 +5,11 @@
 <img src="https://github-readme-stats.vercel.app/api?username=carlafaes&&show_icons=true&count_private=true&theme=radical&titlecolor=8E2DE2&text_color=fff&icon_color=8E2DE2&include_all_commits=true"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=carlafaes&theme=radical"/>|
 |---|---|
 
-
 <h3 align="center">Lenguajes en los que he estado trabajando</h3>
-<br/>
-![Tpo Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlafaes&layout=compact&theme=radical&titlecolor=8E2DE2&text_color=fff&icon_color=8E2DE2)
 
+##c
+<br/>
+![Tpo Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlafaes&layout=compact&theme=radical&langs_count=8&titlecolor=8E2DE2&text_color=fff&icon_color=8E2DE2)
 
 
 <h3 align="center">Contactame:</h3>
