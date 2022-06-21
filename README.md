@@ -9,7 +9,7 @@
 
 ##c
 <br/>
-![Tpo Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlafaes&layout=compact&theme=radical&langs_count=8&titlecolor=8E2DE2&text_color=fff&icon_color=8E2DE2)
+![Tpo Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlafaes&layout=compact&theme=radical&langs_count=9&titlecolor=8E2DE2&text_color=fff&icon_color=8E2DE2)
 
 
 <h3 align="center">Contactame:</h3>
