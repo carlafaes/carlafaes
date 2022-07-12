@@ -13,7 +13,7 @@
 
 <h3 align="center">Visita mi portfolio</h3><br/>
 <p align="center">
-<a href="https://portfolio-front2.vercel.app/" target="blank"><img align="center" src="https://i.imgur.com/hijMudP.png" alt="www.linkedin.com/in/carla-faes-678454216" height="80" width="80" /></a>
+<a href="https://carla-faes.vercel.app/" target="blank"><img align="center" src="https://i.imgur.com/hijMudP.png" alt="www.linkedin.com/in/carla-faes-678454216" height="80" width="80" /></a>
 </p>
 
 <h3 align="center">Contactame:</h3>
