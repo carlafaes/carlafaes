@@ -11,8 +11,11 @@
 <br/>
 ![Tpo Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlafaes&layout=compact&theme=radical&langs_count=9&titlecolor=8E2DE2&text_color=fff&icon_color=8E2DE2)
 
-##Visita mi portfolio
-<a href="https://portfolio-front2.vercel.app/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/carla-faes-678454216" height="60" width="60" /></a>
+<h3 align="center">Lenguajes en los que he estado trabajando</h3>
+<br/>
+<p align="center>
+<a href="https://portfolio-front2.vercel.app/" target="blank"><img align="center" src="https://i.imgur.com/hijMudP.png" alt="www.linkedin.com/in/carla-faes-678454216" height="80" width="80" /></a>
+</p>
 
 <h3 align="center">Contactame:</h3>
 <p align="center">
