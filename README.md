@@ -1,6 +1,9 @@
 
 <a href="https://imgur.com/Bzo5wTV"><img src="https://i.imgur.com/Bzo5wTV.gif" title="source: imgur.com" /></a>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=carlafaes&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 <h3 align="center">Visita mi portfolio</h3><br/>
