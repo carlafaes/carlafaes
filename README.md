@@ -1,5 +1,5 @@
 
-<a href="https://imgur.com/Bzo5wTV"><img src="https://i.imgur.com/Bzo5wTV.gif" title="source: imgur.com" /></a>
+<a href="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTJhZThhNzI4NjA1MDM4MTQ3MzEyZGIzYTMzZjEzYzg1NGE1OWRjMyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/Aceo4HWjgLh9FGxunr/giphy.gif"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTJhZThhNzI4NjA1MDM4MTQ3MzEyZGIzYTMzZjEzYzg1NGE1OWRjMyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/Aceo4HWjgLh9FGxunr/giphy.gif" title="source: giphy.com" width="900"  /></a>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=carlafaes&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlafaes&layout=compact&theme=radical&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
