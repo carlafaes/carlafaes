@@ -1,6 +1,6 @@
 # Hola, soy Carla! 👋
 
-![Logo](https://i.imgur.com/Qg5ru7Z.png)**
+![Logo](https://i.imgur.com/Qg5ru7Z.png)
 
 <span align="center">
   <p align="center">🛠 Skills:</p>
